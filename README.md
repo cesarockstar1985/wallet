@@ -8,7 +8,7 @@ In the project directory, first run:
 
 ### `npm install`
 
-To install all npm dependecies for the app to run.\\
+To install all npm dependecies for the app to run. \
 To run the app:
 
 ### `npm start`
